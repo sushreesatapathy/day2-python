@@ -1,0 +1,15 @@
+str = 'Hello world'
+print(str)
+print(str[0])
+print(str[2:5])
+print(str[2:])
+print(str[:5])
+print(str[0::2])
+print(str * 2)
+print(str[-1])
+print(str + "TEST")
+print('H' in str)
+print('f'in str)
+
+print("My name is {} and id is {}.".format('Sushree',31))
+print("My name is %s and id is %d." % ('Sushree',31))
